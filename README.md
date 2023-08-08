@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @tamhanepd
 - 👀 I’m interested in Machine Learning, Deep Learning, Astronomy, Galaxy formation and evolution
-- 🌱 I’m currently learning Apache Spark with Scala
-- 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me ...
 
 <!---
